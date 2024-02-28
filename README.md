@@ -21,6 +21,29 @@ Before the dashboard was created, data preprocessing was accurately in order to 
 - Dashboard wireframe was also created as part of the design choice
 # Challenges Faced
 One of the major challenges faced was how the information in the dataset will be presented in order to enhance user readability and easy access to the different types of information. After much deliberations with the team, we ended up creating a two pages dashboard for the different dataset.
+# Solutions Implemented
+A two pages dashboard was created. A navigation tab was added for easy access to each of the page. This action facilitates easy access to different types of information and also gave a comprehensive insights.
+# Insights Derived
+The dashboard enables us to know the following:
+- How many people are signed up on the platform
+- How many of those have signed up for opportunities
+- The most popular opportunity learners have signed up for 
+- The most popular opportunity learners have completed
+- The total scholarship and the most gained skills on Excelerate
+# Addressing Key Questions
+The dashboard aimed to answer the following questions:
+- How many people are signed up on the platform, and how many of them have signed up for opportunities? 
+- What are the top 10 countries learners have signed up from? 
+- What are the cities in the US learners have signed up from? 
+- Which is the most popular opportunity learners have signed up for? 
+- Which is the most popular opportunity learners have completed? 
+- What is the demographic (gender, student status, etc.) of those who have signed up and completed? 
+- What are the most gained skills on Excelerate and how much is the total scholarship awarded and through which opportunities.
+# User Interaction and Guidance
+Inclusion of Filter Control component to allow users to interactively filter dashboard. it allows users to refine their search criteria effectively. Inclusion of key metrics to create quick insights and addition of navigation tab to ease the flow of information.
+
+
+
 
 
 
