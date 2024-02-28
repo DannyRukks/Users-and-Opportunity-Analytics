@@ -51,7 +51,7 @@ Inclusion of Filter Control component to allow users to interactively filter das
 # Impact on Decision-Making
 
 More awareness should be created especially in countries where participation is low
-Rewards for opportunities that records low participation should be increased to encourage more participations across the globe
+Rewards for opportunities that records low participation should be increased to encourage more participations across the globe. Click [here](https://drive.google.com/file/d/1uoqjrEF2Yp58K17DscAOOgwozb7QAzor/view?usp=sharing) to access the dashoard for interactivity.
 
 # Thank you
 
