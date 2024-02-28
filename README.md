@@ -41,6 +41,22 @@ The dashboard aimed to answer the following questions:
 - What are the most gained skills on Excelerate and how much is the total scholarship awarded and through which opportunities.
 # User Interaction and Guidance
 Inclusion of Filter Control component to allow users to interactively filter dashboard. it allows users to refine their search criteria effectively. Inclusion of key metrics to create quick insights and addition of navigation tab to ease the flow of information.
+# Visual Highlights
+## Opportunity view
+![opportunity view](https://github.com/DannyRukks/Users-and-Opportunity-Analytics/assets/97890440/5002a4bf-ceaf-47ce-ab77-dd89f9a7a4e6)
+
+## User view
+![user analytics](https://github.com/DannyRukks/Users-and-Opportunity-Analytics/assets/97890440/fd6c54d4-0efb-4e7e-9ddc-cc79817e34f8)
+
+# Impact on Decision-Making
+
+More awareness should be created especially in countries where participation is low
+Rewards for opportunities that records low participation should be increased to encourage more participations across the globe
+
+# Thank you
+
+
+
 
 
 
